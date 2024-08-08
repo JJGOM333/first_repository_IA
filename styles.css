@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    margin: 0;
+    text-align: center;
+    background-color: #d2e3ea; /* color de fondo */
+    color: blueviolet; /* color del texto */
+}
+h1{
+    background-color: rgb(143, 200, 182); 
+    color: rgb(144, 94, 29);
+}
+h2{
+    lighting-color: rgb(83, 162, 134)
+    color: rgb(144, 94, 29);
+}
+h3{background-color: rgb(201, 196, 195);
+color: rgb(49, 53, 149);
+}
+div{
+    max-width: 600px;
+}
